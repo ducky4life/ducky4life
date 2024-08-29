@@ -1,16 +1,16 @@
-## Hi there 👋
+## hello there :D
 
-<!--
-**ducky4life/ducky4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+email: ducky4life@duck.com
 
-Here are some ideas to get you started:
+### nationstates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[detag script](https://github.com/ducky4life/ns-detag)
+
+[mobile r/d guide](https://www.nationstates.net/page=dispatch/id=2519809)
+
+[contact me](https://www.nationstates.net/page=compose_telegram?tgto=ducky)
+
+[tgw](https://www.nationstates.net/region=the_order_of_the_grey_wardens)
+
+css is hard
+https://ducky4life.pages.dev/tgw/
