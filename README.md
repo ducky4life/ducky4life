@@ -4,7 +4,8 @@ email: ducky4life@duck.com
 
 ### nationstates
 
-[detag script](https://github.com/ducky4life/ns-detag)
+#### detag script
+[![detag script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia)](https://github.com/ducky4life/ns-detag)
 
 [mobile r/d guide](https://www.nationstates.net/page=dispatch/id=2519809)
 
