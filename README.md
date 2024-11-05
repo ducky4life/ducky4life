@@ -4,8 +4,13 @@ email: ducky4life@duck.com
 
 ### nationstates
 
-#### detag script
+#### scripts
+
 [![detag script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia)](https://github.com/ducky4life/ns-detag)
+
+[![puree script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia)](https://github.com/ducky4life/ns-blender)
+
+[![z-day script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia)](https://github.com/ducky4life/ns-zombie)
 
 [mobile r/d guide](https://www.nationstates.net/page=dispatch/id=2519809)
 
