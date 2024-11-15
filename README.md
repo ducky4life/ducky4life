@@ -8,7 +8,7 @@ email: ducky4life@duck.com
 
 [![detag script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia)](https://github.com/ducky4life/ns-detag)
 
-[![puree script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algoli)](https://github.com/ducky4life/ns-blender)
+[![puree script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia)](https://github.com/ducky4life/ns-blender)
 
 [![z-day script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia)](https://github.com/ducky4life/ns-zombie)
 
