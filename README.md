@@ -6,11 +6,18 @@ email: ducky4life@duck.com
 
 #### scripts
 
-[![detag script](https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia)](https://github.com/ducky4life/ns-detag)
-
-[![puree script](https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia)](https://github.com/ducky4life/ns-blender)
-
-[![z-day script](https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia)](https://github.com/ducky4life/ns-zombie)
+<a href="https://github.com/ducky4life/ns-detag">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-blender">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-zombie">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-cardfinder">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia" />
+</a>
 
 [mobile r/d guide](https://www.nationstates.net/page=dispatch/id=2519809)
 
