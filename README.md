@@ -18,6 +18,9 @@ email: ducky4life@duck.com
 <a href="https://github.com/ducky4life/ns-cardfinder">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia" />
 </a>
+<a href="https://github.com/ducky4life/ns-cardbidder">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardbidder&theme=algolia&" />
+</a>
 
 [mobile r/d guide](https://www.nationstates.net/page=dispatch/id=2519809)
 
