@@ -17,17 +17,17 @@ email: ducky4life@duck.com
 #### scripts
 
 <a href="https://github.com/ducky4life/ns-detag">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia" />
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
 <a href="https://github.com/ducky4life/ns-blender">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia" />
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
 <a href="https://github.com/ducky4life/ns-zombie">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia" />
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
 <a href="https://github.com/ducky4life/ns-cardfinder">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia" />
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
 <a href="https://github.com/ducky4life/ns-cardbidder">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardbidder&theme=algolia&" />
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardbidder&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
