@@ -22,6 +22,9 @@ email: ducky4life@duck.com
 <a href="https://github.com/ducky4life/ns-blender">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
+<a href="https://github.com/ducky4life/ns-login">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-login&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
+</a>
 <a href="https://github.com/ducky4life/ns-zombie">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
