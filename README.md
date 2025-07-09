@@ -38,5 +38,5 @@ email: ducky4life@duck.com
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=triggerwarden&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
 <a href="https://github.com/ducky4life/reliant-mobile">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=reliant-mobile&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=reliant-mobile&theme=algolia&border_color=b0ffff&title_color=b0ffff&description_lines_count=1" />
 </a>
