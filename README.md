@@ -14,7 +14,7 @@ email: ducky4life@duck.com
 
 [css is hard](https://ducky.is-a.dev/tgw)
 
-#### nationstates scripts
+#### nationstates repositories
 
 <a href="https://github.com/ducky4life/ns-detag">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
@@ -33,4 +33,10 @@ email: ducky4life@duck.com
 </a>
 <a href="https://github.com/ducky4life/ns-cardbidder">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardbidder&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
+</a>
+<a href="https://github.com/ducky4life/Triggerwarden">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=triggerwarden&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
+</a>
+<a href="https://github.com/ducky4life/reliant-mobile">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=reliant-mobile&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
