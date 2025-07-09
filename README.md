@@ -14,7 +14,7 @@ email: ducky4life@duck.com
 
 [css is hard](https://ducky4life.pages.dev/tgw)
 
-#### scripts
+#### nationstates scripts
 
 <a href="https://github.com/ducky4life/ns-detag">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
