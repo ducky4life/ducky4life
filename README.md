@@ -12,7 +12,7 @@ email: ducky4life@duck.com
 
 [join tgw](https://www.nationstates.net/region=the_order_of_the_grey_wardens)
 
-[css is hard](https://ducky4life.pages.dev/tgw)
+[css is hard](https://ducky.is-a.dev/tgw)
 
 #### nationstates scripts
 
