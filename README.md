@@ -2,7 +2,7 @@
 
 im ducky and i code stuff
 
-warden commander in [the order of the grey wardens](https://www.nationstates.net/region=the_order_of_the_grey_wardens), come join us!!
+warden commander in [the order of the grey wardens](https://www.nationstates.net/region=the_order_of_the_grey_wardens)
 
 my projects can be found on my website https://ducky.is-a.dev/
 
