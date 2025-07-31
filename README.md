@@ -1,18 +1,18 @@
 ### hello there :D
 
-email: ducky4life@duck.com
+im ducky and i code stuff
+
+warden commander in [the order of the grey wardens](https://www.nationstates.net/region=the_order_of_the_grey_wardens), come join us!!
+
+my projects can be found on my website https://ducky.is-a.dev/
+
+you can find me on [nationstates](https://www.nationstates.net/ducky) (TGs open!) or email: ducky4life@duck.com
 
 ### nationstates
 
 [mobile r/d guide](https://www.nationstates.net/page=dispatch/id=2519809)
 
 [mobile reliant](https://github.com/ducky4life/reliant-mobile)
-
-[telegram me](https://www.nationstates.net/page=compose_telegram?tgto=ducky)
-
-[join tgw](https://www.nationstates.net/region=the_order_of_the_grey_wardens)
-
-[css is hard](https://ducky.is-a.dev/tgw)
 
 #### nationstates repositories
 
