@@ -14,6 +14,8 @@ you can find me on [nationstates](https://www.nationstates.net/ducky) (TGs open!
 
 [mobile reliant](https://github.com/ducky4life/reliant-mobile)
 
+[web ui for ns api](https://ducky.is-a.dev/ns-web-api/)
+
 #### nationstates repositories
 
 <a href="https://github.com/ducky4life/ns-detag">
