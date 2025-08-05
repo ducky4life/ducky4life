@@ -25,8 +25,8 @@ you can find me on [nationstates](https://www.nationstates.net/ducky) (TGs open!
 <a href="https://github.com/ducky4life/ns-login">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-login&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
-<a href="https://github.com/ducky4life/ns-zombie">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
+<a href="https://github.com/ducky4life/ns-web-api">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-web-api&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
 </a>
 <a href="https://github.com/ducky4life/ns-cardfinder">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia&border_color=b0ffff&title_color=b0ffff" />
